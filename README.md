@@ -26,7 +26,7 @@ Backend (API) Setup
     dotnet ef database update
   4.	Run the API 
     dotnet run
-The API should be running at http://localhost:5000.
+The API should be running at http://localhost:7245.
 
 Frontend (Angular) Setup
   1.	Navigate to the Angular project 
